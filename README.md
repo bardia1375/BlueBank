@@ -18,3 +18,4 @@
 1001 (9) -> نتیجه‌ی AND
 
 
+![logo512](https://github.com/user-attachments/assets/136f4702-ea26-4d67-8842-165a3ed39fb0)
