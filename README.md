@@ -1,6 +1,6 @@
 # (Q&A)
 
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="20" height="20"> How To Read](https://www.notion.so/How-To-Read-11ce27210518804298c7fdc37aa97fdc?pvs=21)
+[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="20" height="20"> How To Read](https://github.com/bardia1375/BlueBank/blob/main/bardia.js)
 
 [<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/js.svg" width="20" height="20" style="fill: #f7df1e;"> JavaScript](https://www.notion.so/JavaScript-10fe27210518806985d7d249e6a2b3c7?pvs=21)
 
