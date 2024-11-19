@@ -2,9 +2,9 @@
 
 [<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="20" height="20"> How To Read](https://www.notion.so/How-To-Read-11ce27210518804298c7fdc37aa97fdc?pvs=21)
 
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/js.svg" width="20" height="20" style="color: #f7df1e;"> JavaScript](https://www.notion.so/JavaScript-10fe27210518806985d7d249e6a2b3c7?pvs=21)
+[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/js.svg" width="20" height="20" style="fill: #f7df1e;"> JavaScript](https://www.notion.so/JavaScript-10fe27210518806985d7d249e6a2b3c7?pvs=21)
 
-[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/cogs.svg" width="20" height="20" style="color: #4caf50;"> Software Engineering](https://www.notion.so/Software-Engineering-115e272105188038a51bf4a8a072025d?pvs=21)
+[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/cogs.svg" width="20" height="20" style="fill: #4caf50;"> Software Engineering](https://www.notion.so/Software-Engineering-115e272105188038a51bf4a8a072025d?pvs=21)
 
 [<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/ts.svg" width="20" height="20" style="color: #3178c6;"> TypeScript](https://www.notion.so/TypeScript-10fe2721051880a1a6e4d0ccd9607639?pvs=21)
 
