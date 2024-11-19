@@ -5,7 +5,12 @@
 [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 [GitHub - zloirock/core-js: Standard Library](https://github.com/zloirock/core-js?tab=readme-ov-file#ecmascript-promise)
+<details>
+  <summary>Click to expand!</summary>
+  
+  Here is the hidden content that will appear once you click on the "Click to expand!" section. You can put any information you want here, including code, text, and more.
 
+</details>
 - Promise MDN
     
     ### Promise**Baseline Widely available**
